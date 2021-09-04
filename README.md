@@ -1,6 +1,6 @@
 ### Hi there, I'm Sunny - aka [SunnyWR][website] 👋
 
-[![Website](https://img.shields.io/website?label=sunnywralph.com&style=for-the-badge&url=https%3A%2F%2Fsunnywralph.github.io)](https://sunnywralph.github.io)
+[![Website](https://img.shields.io/website?label=sunnywralph.github.io&style=for-the-badge&url=https%3A%2F%2Fsunnywralph.github.io)](https://sunnywralph.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sunnywralph2?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsunnywralph2&screen_name=sunnywralph2)
 
 ## I'm a Tech Enthusiast ,Developer, Tutor, Freelancer, and a Financial Advisor!
