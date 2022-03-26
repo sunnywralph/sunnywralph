@@ -6,9 +6,9 @@
 ## I'm a Tech Enthusiast ,Developer, Tutor, Freelancer, and a Financial Advisor!
 
 - 🔭 I’m currently working on a Capstone Project [if you want to contribute: Ping Me]
-- 🌱 I’m currently developing NodeJS Api's & learning Python & Django3
+- 🌱 I’m currently developing NodeJS Api's & DevOps
 - 👯 I’m looking to collaborate with other freelancers and Developer circles
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
 
 
