@@ -3,12 +3,12 @@
 [![Website](https://img.shields.io/website?label=sunnywralph.github.io&style=for-the-badge&url=https%3A%2F%2Fsunnywralph.github.io)](https://sunnywralph.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sunnywralph2?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsunnywralph2&screen_name=sunnywralph2)
 
-## I'm a Tech Enthusiast, Developer, Tutor, and a Freelancer!
+## I'm a Python Backend Developer, AWS Cloud Developer, and a Tech Enthusiast!
 
 - 🔭 I’m currently working on a Capstone Project [if you want to contribute: Ping Me]
-- 🌱 I’m currently developing NodeJS Api's & Vue.js and learning DevOps
-- 👯 I’m looking to collaborate with other freelancers and Developer circles
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently developing Python, NodeJS & Vue.js and DevOps
+- 👯 I’m looking to collaborate with other Developer circles
+- 🥅 2025 Goals: Create Distributed Systems and Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
 
 
